@@ -31,7 +31,7 @@ pip install plugnplai
 
 ### Get a list of plugins
 
-- `urls = get_plugins()`: Get a list of available plugins from a [plugins repository](https://www.plugplai.com/).
+- `urls = get_plugins()`: Get a list of available plugins from a [plugins repository](https://www.plugnplai.com/).
 
 - `urls = get_plugins(filter = 'ChatGPT', category='dev')`: Use 'filter' or 'category' variables to query specific plugins
 
